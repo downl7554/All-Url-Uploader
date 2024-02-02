@@ -12,4 +12,3 @@ youtube_dl
 Flask
 gunicorn
 sent
-dotenv
