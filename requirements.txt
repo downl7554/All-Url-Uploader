@@ -6,11 +6,11 @@ requests>=2.31.0,<3
 tgcrypto
 python-dotenv
 loggers
-yt-dlp
+yt-dlp>=2023.12.30
 wget
-youtube_dl
+youtube_dl>=2021.12.17
 Flask
-gunicorn
+gunicorn>=21.2.0
 sent
 pyaes==1.6.1
 pysocks==1.7.1
